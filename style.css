@@ -1,0 +1,16 @@
+nav{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px;
+}
+
+.input{
+    background-color: white;
+    padding: 8px;
+    width: 300px;
+    margin: 10px 15px;
+    display: flex;
+    
+}
